@@ -34,7 +34,7 @@
 - 动态限速：最大业务带宽1000Mbps（用户动态限速250Mbps-750Mbps）；
 - 常规优惠码：无；不跑路就是最大的优惠；
 - 活动优惠：BFm9JW0d，新年优惠码，85折，活动截至 2022年2月15日（十五）；01.22.2022 更新；
-- 目前可用状态：可用；
+- 目前可用状态：近期稳定性较差，暂不推荐新用户注册；；
 ```
 注册地址：[dash.Catnet.uk](https://bit.ly/3chrGMs) ；[console.catnet.uk](https://console.catnet.uk/#/register?code=PxFIOEeB) （免翻墙）；
 
