@@ -30,8 +30,9 @@
 - 动态限速：10分钟内，流量消耗超过8GB会自动限速至百兆，一小时后恢复；（动态限速机制于2021年12月上线）
 - 单位每元可使用流量：4.5-10Gb/￥；
 - 常规优惠码：9-95折；点此查看；
-- 活动优惠码：2022年春节82/88折；
+- 活动优惠码：2023年春节85/9折；
 - 目前可用状态：可用，参阅晚高峰油管自动4K观影的录制视频；
+- 更新时间：2023年2月1日
 - 购买建议：新手可月付体验后再购买季付、半年付以享受相应优惠；
 ```
 注册地址：[socloud.me](https://bit.ly/3f1uspy)；
@@ -43,9 +44,8 @@
 - 查看近期使用 SoCloud 机场的 [YouTube4K观影体验](https://www.youtube.com/watch?v=ZFquaCadgPE&list=PLLKxTOiRkpR_kzo9UeVpGxjjyP17XT95s&index=2)；
 
 
-
 [1]: https://limbopro.com/usr/uploads/2021/06/3408110024.png
 [2]: https://limbopro.com/usr/uploads/2022/05/3253779772.png
-[3]: https://limbopro.com/usr/uploads/2022/03/373362429.png 
+[3]: https://limbopro.com/usr/uploads/2023/01/321171267.png
 [4]: https://limbopro.com/usr/uploads/2022/11/1176485972.png
 
