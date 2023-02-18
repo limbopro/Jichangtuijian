@@ -48,7 +48,9 @@
 
 ## FlyingBird机场
 
-**机场完整介绍**：https://limbopro.com/865.html
+**机场完整介绍**：https://limbopro.com/archives/flyingbird.html
+
+
 
 | 套餐     | 流量/价格     |
 | -------- | ------------- |
@@ -69,7 +71,7 @@
 - 常规优惠码：季付9折，半年85折，年付8折（详见套餐页面）
 - 活动优惠码：limbopro （9折优惠适用于所有产品，每人仅限一次）
 - 更新时间：2023年2月15日晚间更新；
-- 购买建议：新手可月付体验后再渐进式购买季付、半年付（最多）；
+- 购买建议：新手可月付体验完毕后再渐进式购买季付、半年付（最多）；
 ```
 
 **注册地址**：[flyingbird.cc][5]
@@ -77,10 +79,16 @@
 
 > 近三个月观察表现较好，特此加入便宜机场推荐名单，**尝鲜可入**；
 
+### 近期测速
+
+![FlyingBird 机场测速][6]
+- [历史测速记录][7]
 
 [1]: https://limbopro.com/usr/uploads/2021/06/3408110024.png
 [2]: https://limbopro.com/usr/uploads/2022/05/3253779772.png
 [3]: https://limbopro.com/usr/uploads/2023/01/321171267.png
 [4]: https://limbopro.com/usr/uploads/2022/11/1176485972.png
 [5]: https://bit.ly/3K6t9Y9
+[6]: https://limbopro.com/usr/uploads/2023/02/3078076463.png
+[7]: https://limbopro.com/archives/flyingbird.html#gsc.tab=0
 
