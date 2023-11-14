@@ -85,6 +85,40 @@
 ![FlyingBird 机场测速][6]
 - [历史测速记录][7]
 
+## 白月光机场
+
+**机场完整介绍**：https://limbopro.com/archives/bygcloud.html；
+
+| 小包  | 中包  | 大包  |
+| --- | --- | --- |
+| **￥66/季付** | **￥84/季付** | **￥120/季付** |
+| **每30天可用140G流量** | **每30天可用230GB流量** | **每30天可用400G流量** |
+| 全节点流媒体解锁 | 全节点流媒体解锁 | 全节点流媒体解锁 |
+| SS协议 | SS协议 | SS协议 |
+| 最大 1500Mbps 峰值 | 最大 1500Mbps 峰值 | 最大 1500Mbps 峰值 |
+| **可5个在线设备** | **可5个在线设备** | **可5个在线设备** |
+
+
+```
+- 机场创建于：2021年9月；
+- 支持协议：VMess（v2Ray）SS协议；
+- chatGPT解锁适用：适用，处于积极解锁状态；
+- 流媒体解锁适用：主流媒体全解锁（DAZN、Netflix、Disney+、Hulu、HBO）/Youtube4K稳定10-30w+/另有菲律宾、巴基斯坦、土耳其、巴西、阿根廷、英国、德国、西班牙等冷门节点；
+- 节点特性：深港IEPL专线；
+- 节点倍率：1倍；
+- 晚高峰动态限速：1分钟内持续超过500Mbps限速至300Mbps，持续15分钟，限速15分钟内持续超过300Mbps限速至100Mbps持续60分钟，稍后自动恢复无限制；
+- 单位每元可使用流量：5GB-10GB/￥；
+- 常规优惠码：半年付95折：BYG05OFFHA；年付9折：BYG10OFFAN；
+- 活动优惠码：暂无；
+```
+
+**注册地址**：[www.bygcloud.com][10]；[ss.cn88.net][11]；
+
+### 近期测速
+
+![白月光机场 机场测速][12]
+- [历史测速记录][13]
+
 [1]: https://limbopro.com/usr/uploads/2021/06/3408110024.png
 [2]: https://limbopro.com/usr/uploads/2022/05/3253779772.png
 [3]: https://limbopro.com/usr/uploads/2023/01/321171267.png
@@ -94,4 +128,7 @@
 [7]: https://limbopro.com/archives/flyingbird.html#gsc.tab=0
 [8]: https://limbopro.com/usr/uploads/2023/06/3648845122.png
 [9]: https://limbopro.com/usr/uploads/2023/11/436179506.png
-
+[10]: https://www.bygcloud.com/#/register?code=Cq2gibBR
+[11]: https://ss.cn88.net/#/register?code=Cq2gibBR
+[12]: https://limbopro.com/usr/uploads/2023/11/2174497708.png
+[13]: https://limbopro.com/archives/bygcloud.html
