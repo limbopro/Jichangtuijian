@@ -44,12 +44,57 @@
 - [历史测速记录](https://limbopro.com/archives/v2ray-soCloud.html)；
 - 查看近期使用 SoCloud 机场的 [YouTube4K观影体验](https://www.youtube.com/watch?v=ZFquaCadgPE&list=PLLKxTOiRkpR_kzo9UeVpGxjjyP17XT95s&index=2)；
 
+## OuO 机场
 
+**机场完整介绍**：https://limbopro.com/archives/27873.html
+
+![pexels-joyston-judah-933054.jpg][111]
+
+Via [pexels][222]；
+
+![OuO Network机场近期测速 - photo_2024-01-09_17-56-08.jpg][333]
+
+@> 2024年1月9日 早间，带宽充足；本次测速**耗时6分钟，消耗流量约15GB**；更好看的测速结果可查看历史测速记录；
+
+![ouo机场 - 近期流媒体解锁情况 MiaoKo-ouo-mespeed.png][444]
+
+| 套餐  | 流量/价格 | 季付  | 半年付 | 年付**折后** |
+| --- | --- | --- | --- | --- |
+| 小杯  | 100GB/￥10/月 | ￥30/季 | ￥60/半年 | ￥100/年付 |
+| 中杯  | 200GB/￥18/月 | ￥54/季 | ￥108/半年 | ￥180/年付 |
+| 大杯  | 500GB/￥43/月 | ￥129/季 | ￥258/半年 | ￥430/年付 |
+| 2024特别限定杯 | 600GB/￥188/年 | -   | -   | -   |
+
+>> 各套餐年付时有相应优惠；个人使用不限制设备数量；其他需注意的是，**手续费**为订单金额的10%；如小杯套餐年付，**实际需支付金额**为 100 + 100*0.1 = 110元；套餐如有变动，请以实际套餐价格为准；
+
+> **机场创建于**：2023年9月；  
+**清单存续状态**：于2024年1月10日加入本清单；  
+**新站注明**：处于新站观察期；  
+**chatGPT解锁适用**：适用，处于积极解锁状态；  
+**流媒体解锁适用**：Netflix/Disney+/Youtube/PCR等常规流媒体解锁；  
+**单位每元可使用流量**：折后约合10-16Gb/元；  
+**支持协议**：SS协议；  
+***节点特性**：广港IEPL（自营落地），杭州移动，安徽移动，长沙移动 多线多接入点保证SLA  
+**节点倍率**：1倍率；
+
+> **目前可用状态**：可用；  
+**新站注明**：处于新站观察期；  
+**注册地址**：[board.ouonet.work](https://board.ouonet.work/register?aff=nuoRepOB)  
+**更新时间**：2024年1月10日更新；  
+**活动优惠**：暂无；  
+**购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；
+
+>> Netflix 流媒体解锁：OuO机场 处于积极解锁状态；（此处的积极特指机场主在应对并解决 Netflix 大规模封锁的能动性方面，非Netflix用户可忽略此特性）；01.10.2024 更新；
+
+
+  [111]: https://limbopro.com/usr/uploads/2024/01/1182877008.jpg
+  [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
+  [333]: https://limbopro.com/usr/uploads/2024/01/1204297660.jpg
+  [444]: https://limbopro.com/usr/uploads/2024/01/2297367754.png
 
 ## FlyingBird机场
 
 **机场完整介绍**：https://limbopro.com/archives/flyingbird.html
-
 
 
 | 套餐     | 流量/价格     |
