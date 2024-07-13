@@ -28,7 +28,7 @@
 - 目前可用状态：可用；
 - 常规优惠码：（自动）季付9折，半年85折，年付8折（详见套餐页面）
 - 活动优惠码：limbopro （9折优惠适用于所有产品，每人仅限一次）
-- 更新时间：2024年3月25日晚间更新；
+- 更新时间：2024年7月13日更新；
 - 购买建议：新手可月付体验完毕后再渐进式购买季付、半年付（最多）；
 ```
 
@@ -38,6 +38,7 @@
 > 近三个月观察表现较好，特此加入便宜机场推荐名单，**尝鲜可入**；
 
 ### 近期测速
+![FlyingBird 机场测速][119]
 ![FlyingBird 机场测速][9]
 ![FlyingBird 机场测速][8]
 ![FlyingBird 机场测速][6]
@@ -52,8 +53,8 @@
 
 via [Christian Young](https://twitter.com/ChristianYoungA/status/1785376934584549626/photo/1)；
 
-
 ![1云梯机场近期测速 20240509-152713.png](https://limbopro.com/usr/uploads/2024/05/641944202.png)
+![一云梯近期测速记录——20240708-201818.png](https://limbopro.com/usr/uploads/2024/07/3128866780.png)
 
 > 2024年5月9日 下午，Via 不愿意透露姓名的中原网友，本地带宽1000Mbps；带宽充足，**本次测速耗时约30分钟，消耗流量约41.5GB**；更好看的测速结果可查看[历史测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
@@ -81,7 +82,7 @@ via [Christian Young](https://twitter.com/ChristianYoungA/status/178537693458454
 
 **目前可用状态**：可用；  
 **官网注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；  
-**更新时间**：2024年5月9日晚间更新；  
+**更新时间**：2024年7月13日更新；  
 **常规优惠**：季付9折，半年85折，年付8折（购买页面自动折算）；  
 **博客优惠码**：无；  
 **节日活动优惠**：（在常规优惠的基础上）月/季/半年/年付 8折，优惠码：**5120%** 可重复使用5次；（即日起至2024年5月20日23点59分）；  
@@ -97,6 +98,7 @@ via 毒奶的[机场推荐清单](https://bit.ly/4bpYoHU) ，点击查看适合
 Via [pexels][222]；
 
 ![OuO Network机场近期测速 - photo_2024-01-09_17-56-08.jpg][333]
+![OuO Network机场——近期测速 photo_2024-07-11_08-42-57.jpg][334]
 
 > 2024年1月9日 早间，带宽充足；本次测速**耗时6分钟，消耗流量约15GB**；更好看的测速结果可查看历史测速记录；
 
@@ -124,7 +126,7 @@ Via [pexels][222]；
 > **目前可用状态**：可用；  
 **新站注明**：处于新站观察期；  
 **注册地址**：[board.ouonet.work](https://board.ouonet.work/register?aff=nuoRepOB)  
-**更新时间**：2024年3月25日晚间更新；  
+**更新时间**：2024年7月13日更新；  
 **活动优惠**：暂无；  
 **购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；
 
@@ -134,6 +136,7 @@ Via [pexels][222]；
   [222]: https://www.pexels.com/photo/white-and-black-mountain-wallpaper-933054/
   [333]: https://limbopro.com/usr/uploads/2024/01/1204297660.jpg
   [444]: https://limbopro.com/usr/uploads/2024/01/2297367754.png
+
 
 ## 白月光机场
 
@@ -224,3 +227,5 @@ Via [pexels][222]；
 [12]: https://limbopro.com/usr/uploads/2023/11/2174497708.png
 [13]: https://limbopro.com/archives/bygcloud.html
 [233]: https://limbopro.com/usr/uploads/2024/05/3230898715.jpeg
+[119]: https://limbopro.com/usr/uploads/2024/07/618108339.png
+[334]:https://limbopro.com/usr/uploads/2024/07/2669081977.jpg
