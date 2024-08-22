@@ -28,20 +28,17 @@
 - 目前可用状态：可用；
 - 常规优惠码：（自动）季付9折，半年85折，年付8折（详见套餐页面）
 - 活动优惠码：limbopro （9折优惠适用于所有产品，每人仅限一次）
-- 更新时间：2024年7月13日更新；
+- 更新时间：2024年8月22日更新；
 - 购买建议：新手可月付体验完毕后再渐进式购买季付、半年付（最多）；
 ```
 
 **注册地址**：[flyingbird.pro][5]
 
-
 > 近三个月观察表现较好，特此加入便宜机场推荐名单，**尝鲜可入**；
 
 ### 近期测速
+![FlyingBird 机场测速][20240822]
 ![FlyingBird 机场测速][119]
-![FlyingBird 机场测速][9]
-![FlyingBird 机场测速][8]
-![FlyingBird 机场测速][6]
 - [历史测速记录][7]
 
 
@@ -53,10 +50,10 @@
 
 via [Christian Young](https://twitter.com/ChristianYoungA/status/1785376934584549626/photo/1)；
 
-![1云梯机场近期测速 20240509-152713.png](https://limbopro.com/usr/uploads/2024/05/641944202.png)
-![一云梯近期测速记录——20240708-201818.png](https://limbopro.com/usr/uploads/2024/07/3128866780.png)
 
-> 2024年5月9日 下午，Via 不愿意透露姓名的中原网友，本地带宽1000Mbps；带宽充足，**本次测速耗时约30分钟，消耗流量约41.5GB**；更好看的测速结果可查看[历史测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
+![1云梯机场近期测速 20240810-163316](https://limbopro.com/usr/uploads/2024/08/2645786445.png)
+
+> 2024年8月10日晚间，Via 不愿意透露姓名的中原网友，本地带宽1000Mbps；带**宽冗余充足，本次测速耗时约32分钟，消耗流量约39.5GB；更好看的测速结果可查看历史测速记录**；更好看的测速结果可查看[历史测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 
 ### 套餐价格
@@ -82,7 +79,7 @@ via [Christian Young](https://twitter.com/ChristianYoungA/status/178537693458454
 
 **目前可用状态**：可用；  
 **官网注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；  
-**更新时间**：2024年7月13日更新；  
+**更新时间**：2024年8月22日更新；  
 **常规优惠**：季付9折，半年85折，年付8折（购买页面自动折算）；  
 **博客优惠码**：无；  
 **节日活动优惠**：（在常规优惠的基础上）月/季/半年/年付 8折，优惠码：**5120%** 可重复使用5次；（即日起至2024年5月20日23点59分）；  
@@ -142,6 +139,8 @@ Via [pexels][222]；
 
 **机场完整介绍**：https://limbopro.com/archives/bygcloud.html；
 
+> 近期表现不佳，暂不推荐新用户注册；
+
 | 小包  | 中包  | 大包  |
 | --- | --- | --- |
 | **￥66/季付** | **￥84/季付** | **￥120/季付** |
@@ -150,7 +149,6 @@ Via [pexels][222]；
 | SS协议 | SS协议 | SS协议 |
 | 最大 1500Mbps 峰值 | 最大 1500Mbps 峰值 | 最大 1500Mbps 峰值 |
 | **可5个在线设备** | **可5个在线设备** | **可5个在线设备** |
-
 
 ```
 - 机场创建于：2021年9月；
@@ -208,6 +206,7 @@ Via [pexels][222]；
 
 ### 近期测速
 
+![SoCloud机场测速][20240809]
 ![SoCloud机场测速][3]
 - [历史测速记录](https://limbopro.com/archives/v2ray-soCloud.html)；
 - 查看近期使用 SoCloud 机场的 [YouTube4K观影体验](https://www.youtube.com/watch?v=ZFquaCadgPE&list=PLLKxTOiRkpR_kzo9UeVpGxjjyP17XT95s&index=2)；
@@ -229,3 +228,5 @@ Via [pexels][222]；
 [233]: https://limbopro.com/usr/uploads/2024/05/3230898715.jpeg
 [119]: https://limbopro.com/usr/uploads/2024/07/618108339.png
 [334]:https://limbopro.com/usr/uploads/2024/07/2669081977.jpg
+[20240822]: https://limbopro.com/usr/uploads/2024/08/3901183951.png
+[20240809]: https://limbopro.com/usr/uploads/2024/08/4247858671.png
