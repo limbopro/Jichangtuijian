@@ -1,6 +1,6 @@
 ## 好用的便宜机场推荐
 **SS机场/v2Ray机场/Trojan机场/SSR机场推荐（2019-2024）**
-**原文**：https://limbopro.com/865.html
+**完整原文**：https://limbopro.com/865.html
 
 > 博主所在用的，较为稳定且晚高峰表现还算不错的机场，支持月付，线路包含IEPL、Zenlayer、CC跨境内网专线，支持Netflix等海外流媒体稳定解锁，原文会保持长时更新，以便大家不时之需，如需可收藏；
 
@@ -28,7 +28,7 @@
 - 目前可用状态：可用；
 - 常规优惠码：（自动）季付9折，半年85折，年付8折（详见套餐页面）
 - 活动优惠码：limbopro （9折优惠适用于所有产品，每人仅限一次）
-- 更新时间：2024年8月22日更新；
+- 更新时间：2024年9月13日更新；
 - 购买建议：新手可月付体验完毕后再渐进式购买季付、半年付（最多）；
 ```
 
@@ -37,6 +37,7 @@
 > 近三个月观察表现较好，特此加入便宜机场推荐名单，**尝鲜可入**；
 
 ### 近期测速
+![FlyingBird 机场测速][20240907]
 ![FlyingBird 机场测速][20240822]
 ![FlyingBird 机场测速][119]
 - [历史测速记录][7]
@@ -50,7 +51,7 @@
 
 via [Christian Young](https://twitter.com/ChristianYoungA/status/1785376934584549626/photo/1)；
 
-
+![1云梯机场近期测速 20240907-215443](https://limbopro.com/usr/uploads/2024/09/4178472912.png)
 ![1云梯机场近期测速 20240810-163316](https://limbopro.com/usr/uploads/2024/08/2645786445.png)
 
 > 2024年8月10日晚间，Via 不愿意透露姓名的中原网友，本地带宽1000Mbps；带**宽冗余充足，本次测速耗时约32分钟，消耗流量约39.5GB；更好看的测速结果可查看历史测速记录**；更好看的测速结果可查看[历史测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
@@ -79,7 +80,7 @@ via [Christian Young](https://twitter.com/ChristianYoungA/status/178537693458454
 
 **目前可用状态**：可用；  
 **官网注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；  
-**更新时间**：2024年8月22日更新；  
+**更新时间**：2024年9月13日更新；  
 **常规优惠**：季付9折，半年85折，年付8折（购买页面自动折算）；  
 **博客优惠码**：无；  
 **节日活动优惠**：（在常规优惠的基础上）月/季/半年/年付 8折，优惠码：**5120%** 可重复使用5次；（即日起至2024年5月20日23点59分）；  
@@ -94,7 +95,7 @@ via 毒奶的[机场推荐清单](https://bit.ly/4bpYoHU) ，点击查看适合
 
 Via [pexels][222]；
 
-![OuO Network机场近期测速 - photo_2024-01-09_17-56-08.jpg][333]
+![OuO Network机场近期测速 - photo_2024-09-07.jpg][339]
 ![OuO Network机场——近期测速 photo_2024-07-11_08-42-57.jpg][334]
 
 > 2024年1月9日 早间，带宽充足；本次测速**耗时6分钟，消耗流量约15GB**；更好看的测速结果可查看历史测速记录；
@@ -123,7 +124,7 @@ Via [pexels][222]；
 > **目前可用状态**：可用；  
 **新站注明**：处于新站观察期；  
 **注册地址**：[board.ouonet.work](https://board.ouonet.work/register?aff=nuoRepOB)  
-**更新时间**：2024年7月13日更新；  
+**更新时间**：2024年9月13日更新；  
 **活动优惠**：暂无；  
 **购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；
 
@@ -230,3 +231,5 @@ Via [pexels][222]；
 [334]:https://limbopro.com/usr/uploads/2024/07/2669081977.jpg
 [20240822]: https://limbopro.com/usr/uploads/2024/08/3901183951.png
 [20240809]: https://limbopro.com/usr/uploads/2024/08/4247858671.png
+[20240907]: https://limbopro.com/usr/uploads/2024/09/1239565629.png
+[339]: https://limbopro.com/usr/uploads/2024/09/3946307467.jpg
