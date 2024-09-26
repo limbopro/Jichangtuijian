@@ -91,11 +91,7 @@ via 毒奶的[机场推荐清单](https://bit.ly/4bpYoHU) ，点击查看适合
 ### 近期测速
 
 ![OuO Network机场近期测速 - photo_2024-09-07.jpg][339]
-![OuO Network机场——近期测速 photo_2024-07-11_08-42-57.jpg][334]
-
-> 2024年1月9日 早间，带宽充足；本次测速**耗时6分钟，消耗流量约15GB**；更好看的测速结果可查看历史测速记录；
-
-![ouo机场 - 近期流媒体解锁情况 MiaoKo-ouo-mespeed.png][444]
+- [最新测速记录][1101]
 
 | 套餐  | 流量/价格 | 季付  | 半年付 | 年付**折后** |
 | --- | --- | --- | --- | --- |
@@ -149,3 +145,4 @@ via 毒奶的[机场推荐清单](https://bit.ly/4bpYoHU) ，点击查看适合
 [20240809]: https://limbopro.com/usr/uploads/2024/08/4247858671.png
 [20240907]: https://limbopro.com/usr/uploads/2024/09/1239565629.png
 [339]: https://limbopro.com/usr/uploads/2024/09/3946307467.jpg
+[1101]: https://limbopro.com/archives/27873.html
