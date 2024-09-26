@@ -21,11 +21,11 @@
 
 ### 套餐价格
 
-| 套餐     | 流量/价格     |
-| -------- | ------------- |
-| 青铜套餐 | 100GB/￥15/月 |
-| 白银套餐 | 200GB/￥30/月 |
-| 黄金套餐 | 500GB/￥75/月 |
+| 套餐  | 流量/价格 | 季付**折后**[9折] | 半年付**折后**[85折] | 年付**折后**[8折] |
+| --- | --- | --- | --- | --- |
+| 青铜套餐 | 100GB/￥15/月 | ￥41/季 | ￥77/半年 | ￥144/年付 |
+| 白银套餐 | 200GB/￥30/月 | ￥81/季 | ￥153/半年 | ￥288/年付 |
+| 黄金套餐 | 500GB/￥75/月 | ￥203/季 | ￥383/半年 | ￥720/年付 |
 
 > **机场创建于**：2022年11月6日；  
 **chatGPT解锁适用**：适用，处于积极解锁状态；  
@@ -50,8 +50,7 @@
 ### 近期测速
 
 ![1云梯机场近期测速 20240907-215443](https://limbopro.com/usr/uploads/2024/09/4178472912.png)
-
-> 2024年8月10日晚间，Via 不愿意透露姓名的中原网友，本地带宽1000Mbps；带**宽冗余充足，本次测速耗时约32分钟，消耗流量约39.5GB；更好看的测速结果可查看历史测速记录**；更好看的测速结果可查看[最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
+- [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
 
@@ -76,7 +75,8 @@
 **博客优惠码**：无； 
 **购买建议**：新站观察期；新手可**月付体验完毕后**再渐进式购买季付、半年付（最多）；  
 
-**官网注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；   
+**注册地址**：[www.1yunti.com](https://www.1yunti.com/register?aff=4PomBTlJ)；  
+[1ytcom01.1yunti.net](https://1ytcom01.1yunti.net/register?aff=4PomBTlJ)；  
 
 ## OuO 机场
 
