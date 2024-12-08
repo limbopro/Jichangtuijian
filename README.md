@@ -20,7 +20,7 @@
 **原文地址**：https://limbopro.com/archives/flyingbird.html
 
 ### 近期测速
-![FlyingBird 机场测速][20241007]
+![FlyingBird 机场测速][20241208]
 - [最新测速记录][7]
 
 ### 套餐价格
@@ -53,7 +53,7 @@
 
 ### 近期测速
 
-![1云梯机场近期测速 20241007](https://limbopro.com/usr/uploads/2024/10/2916128519.png)
+![1云梯机场近期测速 20241208](https://limbopro.com/usr/uploads/2024/12/2099454467.png)
 - [最新测速记录](https://limbopro.com/archives/trojan_1yunti.html)；
 
 ### 套餐价格
@@ -88,7 +88,7 @@
 
 ### 近期测速
 
-![YkkkCloud机场近期测速记录-2024年10月07日-181309.png](https://limbopro.com/usr/uploads/2024/10/2635209805.png)
+![YkkkCloud机场近期测速记录-2024年12月08日.png](https://limbopro.com/usr/uploads/2024/12/4165358944.png)
 - [最新测速记录](https://limbopro.com/865.html)
 
 ### 套餐价格
@@ -176,3 +176,4 @@
 [20241007]: https://limbopro.com/usr/uploads/2024/10/3739463811.png
 [339]: https://limbopro.com/usr/uploads/2024/10/3665665277.png
 [1101]: https://limbopro.com/archives/27873.html
+[20241208]: https://limbopro.com/usr/uploads/2024/12/2699100653.png
